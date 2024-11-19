@@ -1,0 +1,14 @@
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/bin/Debug/net8.0/GuessingGame
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/bin/Debug/net8.0/GuessingGame.deps.json
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/bin/Debug/net8.0/GuessingGame.runtimeconfig.json
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/bin/Debug/net8.0/GuessingGame.dll
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/bin/Debug/net8.0/GuessingGame.pdb
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/obj/Debug/net8.0/GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/obj/Debug/net8.0/GuessingGame.AssemblyInfoInputs.cache
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/obj/Debug/net8.0/GuessingGame.AssemblyInfo.cs
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/obj/Debug/net8.0/GuessingGame.csproj.CoreCompileInputs.cache
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/obj/Debug/net8.0/GuessingGame.dll
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/obj/Debug/net8.0/refint/GuessingGame.dll
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/obj/Debug/net8.0/GuessingGame.pdb
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/obj/Debug/net8.0/GuessingGame.genruntimeconfig.cache
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Guess Game/GuessingGame/obj/Debug/net8.0/ref/GuessingGame.dll
